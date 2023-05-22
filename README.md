@@ -1,5 +1,6 @@
 # Natours Website - Advanced SCSS and Responsive Design
 
+
 Welcome to the Natours Website, a project developed using advanced SCSS techniques and incorporating responsive design principles. This website serves as a comprehensive demonstration of the power of SCSS and showcases its practical applications in creating a visually stunning and fully responsive web experience.
 
 ## Project Overview
